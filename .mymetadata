@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ups_web_new1"
+  id="myeclipse.1407893176132"
+  context-root="/upsweb"
+  j2ee-spec="5.0"
+  archive="ups_web_new1.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
